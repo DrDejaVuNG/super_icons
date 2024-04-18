@@ -1,3 +1,7 @@
+## 1.0.1
+
+- README Update
+
 ## 1.0.0
 
 - Stable Release

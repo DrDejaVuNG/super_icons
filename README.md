@@ -20,7 +20,7 @@ Here is the list of icon packs in the package.
 
 ### Bootstrap
 
-![Bootstrap](assets/images/bootstrap.svg)
+![Bootstrap](https://raw.githubusercontent.com/DrDejaVuNG/super_icons/f58115ad04112199c21846ed643ad79209947d74/assets/images/bootstrap.svg)
 
 ```dart
   Icon(SuperIcons.bs_google),
@@ -30,7 +30,7 @@ Here is the list of icon packs in the package.
 
 ### BoxIcons
 
-![BoxIcons](assets/images/boxicons.svg)
+![BoxIcons](https://raw.githubusercontent.com/DrDejaVuNG/super_icons/f58115ad04112199c21846ed643ad79209947d74/assets/images/boxicons.svg)
 
 ```dart
   Icon(SuperIcons.bx_apple),
@@ -40,7 +40,7 @@ Here is the list of icon packs in the package.
 
 ### Clarity
 
-![Clarity](assets/images/clarity.svg)
+![Clarity](https://raw.githubusercontent.com/DrDejaVuNG/super_icons/f58115ad04112199c21846ed643ad79209947d74/assets/images/clarity.svg)
 
 ```dart
   Icon(SuperIcons.cl_map_outline_badged),
@@ -50,7 +50,7 @@ Here is the list of icon packs in the package.
 
 ### EvaIcons
 
-![EvaIcons](assets/images/evaicons.svg)
+![EvaIcons](https://raw.githubusercontent.com/DrDejaVuNG/super_icons/f58115ad04112199c21846ed643ad79209947d74/assets/images/evaicons.svg)
 
 ```dart
   Icon(SuperIcons.ev_clipboard),
@@ -60,7 +60,7 @@ Here is the list of icon packs in the package.
 
 ### HeroIcons
 
-![HeroIcons](assets/images/heroicons.svg)
+![HeroIcons](https://raw.githubusercontent.com/DrDejaVuNG/super_icons/f58115ad04112199c21846ed643ad79209947d74/assets/images/heroicons.svg)
 
 ```dart
   Icon(SuperIcons.hr_printer),
@@ -70,7 +70,7 @@ Here is the list of icon packs in the package.
 
 ### Iconsax
 
-![Iconsax](assets/images/iconsax.svg)
+![Iconsax](https://raw.githubusercontent.com/DrDejaVuNG/super_icons/f58115ad04112199c21846ed643ad79209947d74/assets/images/iconsax.svg)
 
 ```dart
   Icon(SuperIcons.is_cake_bold),
@@ -80,7 +80,7 @@ Here is the list of icon packs in the package.
 
 ### IonIcons
 
-![IonIcons](assets/images/ionicons.svg)
+![IonIcons](https://raw.githubusercontent.com/DrDejaVuNG/super_icons/f58115ad04112199c21846ed643ad79209947d74/assets/images/ionicons.svg)
 
 ```dart
   Icon(SuperIcons.ii_bug),
@@ -90,7 +90,7 @@ Here is the list of icon packs in the package.
 
 ### MingCute
 
-![MingCute](assets/images/mingcute.svg)
+![MingCute](https://raw.githubusercontent.com/DrDejaVuNG/super_icons/f58115ad04112199c21846ed643ad79209947d74/assets/images/mingcute.svg)
 
 ```dart
   Icon(SuperIcons.mg_knife_line),
