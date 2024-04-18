@@ -1,0 +1,75 @@
+name: super_icons
+description: Curated selection of high-quality icon packs to accelerate UI development.
+version: 1.0.0
+repository: https://github.com/DrDejaVuNG/super_icons
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  
+flutter: 
+  # Images
+  assets:
+    - assets/images
+
+  # Fonts
+  fonts:
+    # Bootstrap
+    - family: Bootstrap
+      fonts:
+        - asset: assets/fonts/Bootstrap.ttf
+
+    # BoxIcons
+    - family: BoxIcons
+      fonts:
+        - asset: assets/fonts/BoxIcons.ttf
+
+    # Clarity
+    - family: Clarity
+      fonts:
+        - asset: assets/fonts/Clarity.ttf
+
+    # EvaIcons
+    - family: EvaIcons
+      fonts:
+        - asset: assets/fonts/EvaIcons.ttf
+
+    # HeroIcons
+    - family: HeroIcons
+      fonts:
+        - asset: assets/fonts/HeroIcons.ttf
+
+    # Iconsax
+    - family: Iconsax
+      fonts:
+        - asset: assets/fonts/Iconsax.ttf
+
+    # IonIcons
+    - family: IonIcons
+      fonts:
+        - asset: assets/fonts/IonIcons.ttf
+
+    # Lucide
+    - family: Lucide
+      fonts:
+        - asset: assets/fonts/Lucide.ttf
+
+    # MingCute
+    - family: MingCute
+      fonts:
+        - asset: assets/fonts/MingCute.ttf
+
+    # PelaIcons
+    - family: PelaIcons
+      fonts:
+        - asset: assets/fonts/PelaIcons.ttf
+        
