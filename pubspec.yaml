@@ -1,6 +1,6 @@
 name: super_icons
 description: Curated selection of high-quality icon packs to accelerate UI development.
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/DrDejaVuNG/super_icons
 
 environment:
@@ -17,10 +17,6 @@ dev_dependencies:
   flutter_lints: ^2.0.0
   
 flutter: 
-  # Images
-  assets:
-    - assets/images
-
   # Fonts
   fonts:
     # Bootstrap
@@ -72,4 +68,3 @@ flutter:
     - family: PelaIcons
       fonts:
         - asset: assets/fonts/PelaIcons.ttf
-        

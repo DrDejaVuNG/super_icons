@@ -1,3 +1,7 @@
+## 1.0.2
+
+- Removed pubspec.yaml asset definition causing build failure
+
 ## 1.0.1
 
 - README Update
