@@ -1,3 +1,7 @@
+## 1.0.3
+
+- Dart SDK version downgrade
+
 ## 1.0.2
 
 - Removed pubspec.yaml asset definition causing build failure
